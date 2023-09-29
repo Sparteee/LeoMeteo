@@ -15,6 +15,7 @@ Le projet n'est pas terminé, il est possible d'ajouter des fonctionnalités com
 - [ ] Ajouter la possibilité de choisir la ville
 - [ ] Ajouter la possibilité de choisir l'heure d'envoi du SMS
 - [ ] Ajouter la possibilité de choisir la fréquence d'envoi du SMS
+- [ ] Mettre en place l'application sur un serveur avec un cron pour envoyer le SMS automatiquement à une heure précise 
 
 ## Installation
 
